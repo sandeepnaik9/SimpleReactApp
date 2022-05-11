@@ -52,6 +52,7 @@ A basic task using - Node, Express, MongoDB, React and Redux using **create-reac
 - #### Image of Home Page after 1st user logins and as you can see the 2nd task displayed can only be liked.
 ![screenshot1](https://github.com/sandeepnaik9/VyoriusFullStackTask/blob/master/images/pic4.PNG)
 - #### Creating a demo task
+![screenshot1](https://github.com/sandeepnaik9/VyoriusFullStackTask/blob/master/images/pic7.PNG)
 ![screenshot1](https://github.com/sandeepnaik9/VyoriusFullStackTask/blob/master/images/pic5.PNG)
 - #### Home Page after 2nd user login and as you can see the 1st task was created by first user so 2nd user has the only access of liking the task
 ![screenshot1](https://github.com/sandeepnaik9/VyoriusFullStackTask/blob/master/images/pic6.PNG)
