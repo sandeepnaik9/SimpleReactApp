@@ -35,7 +35,7 @@ A basic task using - Node, Express, MongoDB, React and Redux using **create-reac
 - **redux** (Predictable state container for JavaScript apps)
 - **redux-thunk** (Thunk middleware for Redux)
 
-### API Server
+### Backend
 - **bcrypt** (Library to help you hash passwords)
 - **body-parser** (Parse incoming request bodies)
 - **express** (Fast, unopinionated, minimalist web framework)
