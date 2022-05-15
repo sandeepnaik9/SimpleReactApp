@@ -1,12 +1,7 @@
 # Vyorius FullStack Task
 ## _Sandeep Naik_
 A basic task using - Node, Express, MongoDB, React and Redux using **create-react-app** with separate **Server** `(express+mongo)` and **Client** `(react+redux)` folders. Uses Google's Material Design UI (`material-ui` package).
-## Requirements of the Task:
-- Homepage should list all the tasks.
-- In the header login , logout and add task button should be present .
-- Using REDUX is mandatory.
-- Remove and edit task functionality should be there .
-- If the user is logged out/guest then show the login screen.
+
 
 ## 📝 Features
 - [x] Home Page Lists all the tasks
