@@ -10,7 +10,7 @@ A basic application using - Node, Express, MongoDB, React and Redux using **crea
 - [x] Authentication
 
 ## ▶️  Installation & Running
-- Clone repo `git clone https://github.com/sandeepnaik9/VyoriusFullStackTask.git`
+- Clone repo `git clone https://github.com/sandeepnaik9/SimpleReactApp.git`
 - Install NPM modules for **Client** `cd client` and `npm install`
 - Install NPM modules for **server** `cd server` and `npm install`
 - Run **server** server `cd server` and `npm start` (runs on port configured under `server/index.js`)
