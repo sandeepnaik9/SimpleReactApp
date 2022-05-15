@@ -1,6 +1,5 @@
-# Vyorius FullStack Task
 ## _Sandeep Naik_
-A basic task using - Node, Express, MongoDB, React and Redux using **create-react-app** with separate **Server** `(express+mongo)` and **Client** `(react+redux)` folders. Uses Google's Material Design UI (`material-ui` package).
+A basic application using - Node, Express, MongoDB, React and Redux using **create-react-app** with separate **Server** `(express+mongo)` and **Client** `(react+redux)` folders. Uses Google's Material Design UI (`material-ui` package).
 
 
 ## 📝 Features
